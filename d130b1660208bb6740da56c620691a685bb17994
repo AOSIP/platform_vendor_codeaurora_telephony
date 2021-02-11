@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98a2f013_ca781279",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000314
+      },
+      "writtenOn": "2021-02-11T14:21:15Z",
+      "side": 1,
+      "message": "I don\u0027t really see the point of it when we can use qssi ims.apk instead of waiting for OEM to update it",
+      "revId": "d130b1660208bb6740da56c620691a685bb17994",
+      "serverId": "44769751-fbfc-497d-9c9a-4bb318a4117c"
+    }
+  ]
+}
